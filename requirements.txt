@@ -1,2 +1,2 @@
-tinydb==3.14.1
+tinydb==4.3.0
 numpy==1.17.1
